@@ -1,2 +1,4 @@
-# C-program-
-My C program practice 
+This repository contains basic C programming projects.
+
+## Projects
+1. Simple Calculator
