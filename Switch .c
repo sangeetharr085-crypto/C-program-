@@ -1,4 +1,4 @@
-simple calculator*/
+/*simple calculator*/
 #include<stdio.h>
 #include<conio.h>
 int main()
